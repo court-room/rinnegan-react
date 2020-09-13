@@ -1,0 +1,531 @@
+@media screen and (min-width: 1920px) {
+  .hero-area .contents {
+    padding: 280px 0 390px; }
+  }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+   
+    .hero-area .contents h2 {
+      color: #771093;
+      font-size: 36px;
+      font-weight: 550;
+      line-height: 50px;
+      margin-bottom: 20px; 
+    }
+    .hero-area .contents p {
+      color: #2f1b40;
+      font-size: 18px;
+      line-height: 24px;
+      margin:0 5px 20px; 
+    }
+    
+    #about .contents h2{
+      color: #771093;
+      font-size: 34px;
+      margin-bottom: 20px; 
+    }
+    #about .contents p{
+      font-size: 14px; 
+    }
+    #features .feature-item .feature-icon i {
+      font-size: 32px;
+       }
+        #features .feature-item .feature-icon {
+          max-width: 80px;
+          max-height: 80px;
+          }
+  #features .feature-item h4 {
+    font-size: 18px;
+     }
+  #features .feature-item p {
+    font-size: 16px;
+    text-align: center; }
+
+  .navbar-expand-md .navbar-nav .nav-link{
+    padding: 12px 5px;
+    font-size: 13px;
+    margin-left: 15px; 
+  }
+  .hero-area .contents {
+    padding: 220px 0; }
+  .section {
+    padding: 80px 0px; }
+
+    #team .single-team .team-social-icons ul.social-list li a i {
+      font-size: 20px; }
+
+      #team .single-team .team-details h5.team-title {
+        font-size: 24px;
+        }
+      #team .single-team .team-details p {
+        font-size: 14px;
+      }
+
+      #pricing .pricing-table {
+        padding: 40px;
+         }
+        #pricing .pricing-table h3 {
+          font-size: 18px;
+          margin-bottom: 10px; }
+        #pricing .pricing-table h1 {
+          font-size: 48px;
+          }
+        #pricing .pricing-table h1 span {
+          font-size: 16px;
+           }
+        #pricing .pricing-table ul li {
+          font-size: 14px;
+           }
+
+  #footer-Content h3.block-title {
+    font-size: 16px; }
+  #footer-Content ul.menu li a {
+    font-size: 14px;
+    line-height: 31px; }
+  #footer-Content {
+    padding-top: 80px; }
+    #footer-Content .footer-logo{
+      top: -2%;
+    }
+    #footer-Content .footer-logo img{
+      width: 200px;
+      height: auto;
+
+    }
+  #footer-Content h3.block-title {
+    margin-bottom: 20px;
+    margin-top: 20px; } 
+
+    .navbar-brand img{
+      max-width: 80%;
+    }  
+
+  }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .hero-area .contents h2 {
+   
+    font-size: 40px !important; }
+
+    .hero-area .contents {
+      text-align: center;
+    }
+
+   .hero-area .intro-img {
+     display: none;
+   }  
+   .navbar-brand img {
+     max-width: 70%;
+   }
+
+   #about .intro-img img {
+    max-width: 80%;
+  }
+ 
+  #about .contents{
+  padding: auto auto;
+  margin: auto auto;
+  }
+  #about .contents h2{
+    font-size: 28px; 
+  }
+
+    #about .btn {
+      max-width: 50%;
+      max-height: 50%;
+  }
+  
+
+  #about .contents p {
+    font-size: 14px; 
+  }
+   
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding: 12px 0px;
+    font-size: 13px;
+    margin:12px 0 auto 12px; 
+  }
+
+  .navbar-expand-md .navbar-nav .btn-singup {
+    font-size: 13px;
+    padding:6px 18px;
+    margin:17px 0 auto 15px;
+  }
+
+  .hero-area .contents {
+    padding: 200px 0 100px; }
+
+    #features .feature-item {
+      padding: 30px 15px;
+      margin: auto auto;
+      height: 100%;
+      }
+
+    #features .feature-item .feature-icon i {
+      font-size: 24px;
+       }
+        #features .feature-item .feature-icon {
+          max-width: 60px;
+          max-height: 60px;
+          }
+  #features .feature-item h4 {
+    font-size: 16px;
+     }
+  #features .feature-item p {
+    font-size: 14px;
+    text-align: center; }
+
+  #pricing .pricing-table {
+    padding: 30px 15px; }
+  #pricing .pricing-table h1 span {
+    left: 10%; }
+
+    #team .single-team .team-social-icons ul.social-list li a i {
+      font-size: 16px; }
+
+      #team .single-team .team-details h5.team-title {
+        font-size: 20px;
+        }
+      #team .single-team .team-details p {
+        font-size: 14px;
+      }
+
+  #team .single-team {
+    margin-bottom: 20px; }
+
+#contact form#contactForm .submit-button .btn-border {
+  width: 100%;
+}
+
+  .contact-img img {
+    display: none; }
+  #footer-Content .footer-logo img {
+    max-width: 80%;
+    padding-top: 12px; }
+  #footer-Content .subscribe {
+    width: 100%;
+    text-align: center;
+  }
+    .hero-area .intro-img {
+    padding: 100px 0 0px; }
+ 
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding: 12px 0px;
+    font-size: 13px;
+    margin-left: 9px; }
+  .pt-70 {
+    padding-top: 20px; }
+   }
+
+@media only screen and (max-width: 767px) {
+  .navbar-brand img {
+    width: 70%;
+  }
+  .hero-area .intro-img {
+    display: none;
+  }  
+  .navbar-collapse {
+    background: #f2f2f2;
+  }
+  .navbar-expand-md .navbar-brand, .navbar-expand-md .navbar-toggler {
+    margin: 6px 15px;
+    color: #2f1b40; }
+
+
+    #about .intro-img {
+      width: 80%;
+      margin: auto auto;
+      margin-bottom: 10px;
+    }
+   
+    #about .contents{
+    padding: auto auto;
+    margin: auto auto;
+    }
+    #about .contents h2{
+      font-size: 28px; 
+    }
+  
+      #about .btn {
+        margin: auto auto;
+        width: 40%;
+        height: 40%;
+      }
+  
+    #about .contents p {
+      font-size: 14px; 
+    }
+    #pricing .pricing-table {
+      margin-bottom: 20px; }
+
+  .navbar {
+    padding: 0; }
+
+    #team .single-team .team-social-icons ul.social-list li a i {
+      font-size: 24px; }
+
+      #team .single-team .team-details h5.team-title {
+        font-size: 20px;
+        }
+      #team .single-team .team-details p {
+        font-size: 16px;
+      }
+
+  #team .single-team {
+   
+    margin-bottom: 20px; }
+    #contact form#contactForm .submit-button .btn-border {
+      width: 100%;
+    }
+    
+      .contact-img img {
+        display: none; }
+        #footer-Content .subscribe {
+          width: 100%;
+          text-align: center;
+        }
+  
+  }
+
+@media (min-width: 320px) and (max-width: 480px) {
+ 
+  .navbar {
+    padding: 0; }
+  .navbar-brand img {
+    width: 100px; }
+  .navbar-expand-md .navbar-brand, .navbar-expand-md .navbar-toggler {
+    margin: 6px 15px; }
+  .btn-singin {
+    background: transparent;
+    color: #fff;
+    padding: 10px 23px;
+    margin-left: 0;
+    box-shadow: 0px 0px 0px 0px rgba(96, 94, 94, 0.17); }
+  .hero-area .contents h2 {
+    font-size: 20px;
+    line-height: 35px;
+    margin-bottom: 10px; }
+  .hero-area .contents {
+    padding: 200px 0 50px; }
+  .hero-area .contents p {
+    color: #2f1b40;
+    font-size: 14px;
+    line-height: 26px; }
+  .hero-area .contents .btn {
+    margin-top: 30px;
+    margin-right: 4px;
+    text-transform: uppercase;
+    width: 125px;
+    height: 45px;
+    padding: 15px 14px;
+    font-size: 12px; }
+  .hero-area .contents .btn-border {
+    border: 1px solid #f2f2f2;
+    color: #f2f2f2;
+    -webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    width: 122px;
+    height: 45px;
+    padding: 15px 15px; }
+  .hero-area .intro-img {
+    padding: 30px 0 0px; }
+  .section {
+    padding: 70px 0px; }
+  #services .services-item {
+    padding: 30px 15px;
+    margin-bottom: 15px; }
+  #business-plane .business-item-info h3 {
+    font-size: 25px; }
+  .section-header .section-title {
+    font-size: 25px; }
+  #services .services-item p {
+    font-size: 14px; }
+  #business-plane .business-item-info p {
+    font-size: 14px;
+    margin-bottom: 20px; }
+  .section-header .desc-text p {
+    font-size: 14px;
+    color: #5e629c;
+    line-height: 24px;
+    margin-bottom: 0; }
+  #features .feature-item {
+    padding: 10px; }
+  #features .feature-item .feature-icon {
+    margin-bottom: 20px; }
+  #features .feature-item p {
+    font-size: 15px;
+    display: block; }
+  .showcase-area .pr-0, .px-0 {
+    padding-right: 15px !important; }
+  #showcase {
+    padding-bottom: 250px; }
+  #pricing .pricing-table h1 span {
+    left: 4%; }
+  #pricing .pricing-table {
+    margin-bottom: 15px; }
+  #testimonial #client-testimonial {
+    padding: 30px 10px; }
+  #testimonial #client-testimonial .content-inner p {
+    font-size: 15px;
+    line-height: 22px; }
+  #testimonial #client-testimonial .author-info h5 {
+    color: #151948;
+    font-size: 15px; }
+  #testimonial #client-testimonial h5 span {
+    font-size: 13px;
+    color: #5e629c;
+    font-style: italic; }
+  #testimonial .testimonial-area {
+    position: inherit;
+    width: 100%;
+    z-index: 12;
+    top: 0;
+    margin: 0px auto; }
+  #testimonial {
+    margin-bottom: 0;
+    background-size: cover; }
+  #team .single-team {
+    margin-bottom: 15px; }
+  #team .single-team .team-social-icons {
+    bottom: 22%; }
+  #blog .blog-item-wrapper .blog-item-text {
+    padding: 20px 15px 15px 15px; }
+  #blog .blog-item-wrapper h3 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 12px; }
+  #blog .blog-item-wrapper {
+    margin-bottom: 15px; }
+  #footer-Content .copyright p {
+    color: #3ecf8e;
+    font-size: 12px; }
+  #footer-Content ul.menu li a {
+    color: #e2e2e2;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px; }
+  #footer-Content h3.block-title {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    margin-top: 15px; }
+  #footer-Content .footer-logo img {
+    padding-top: 0; }
+  #footer-Content {
+    padding-top: 30px;
+    background: #180e29; }
+  #footer-Content .footer-logo img {
+    padding-top: 0;
+    width: 40%; }
+  #blog .blog-item-wrapper .author {
+    border-top: 1px solid #ddd;
+    padding: 18px 10px 15px 10px; }
+  .owl-theme .owl-controls {
+    display: none !important; }
+  #business-plane {
+    padding-bottom: 40px; }
+  #showcase .showcase-area {
+    width: 90%; }
+  #light-featured .light-feature-item .light-feature-icon {
+    margin-bottom: 20px; }
+  #light-featured .right-feature-info h3 {
+    font-size: 25px;
+    line-height: 35px; }
+  #light-featured .light-feature-item .light-feature-info p {
+    font-size: 15px;
+    display: block; }
+  #download-app .download-info h3 {
+    font-size: 25px;
+    line-height: 38px; }
+  #download-app .download-info .downlaod-btn a.play-store {
+    width: 195px;
+    height: 65px;
+    line-height: 18px;
+    margin-right: 0;
+    margin-bottom: 20px; }
+  .download-statatics {
+    text-align: center;
+    margin-bottom: 15px; }
+  #client-talk .client-words {
+    padding: 20px;
+    margin-bottom: 15px; }
+  #footer-Content .copyright {
+    margin-top: 30px; }
+  .blog-hero-area .contents h2 {
+    color: #fff;
+    font-size: 25px; }
+  .blog-hero-area .contents {
+    padding: 100px 0 90px; }
+  #brand-area .brand-subtitle h5 {
+    font-size: 18px; }
+  #brand-area {
+    padding: 50px 0px 60px 0; }
+  #light-featured {
+    padding-bottom: 50px;
+    padding-top: 100px; }
+  #light-featured .light-feature-item .light-feature-info h4 {
+    font-size: 18px; }
+  #light-featured .right-feature-info h3 {
+    font-size: 20px;
+    line-height: 30px; }
+  #light-featured .right-feature-info p {
+    font-size: 15px; }
+  #showcase .showcase-slider .screenshot-thumb .fancy-table {
+    padding-top: 50px; }
+  #showcase .showcase-slider .screenshot-thumb > .hover-content {
+    height: 81%;
+    width: 80%; }
+  #footer-Content h3.block-title {
+    margin-bottom: 18px;
+    margin-top: 15px; }
+  .back-to-top {
+    display: none !important; } }
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+  #pricing .container .pricing-tables .pricing-table {
+    height: 100%;
+}
+
+#features .feature-item {
+  height: 80%;
+} 
+
+  
+  .navbar-expand-md .navbar-nav .nav-link {
+    font-size: 15px;
+    padding: 8px 0px;
+    margin-left: 18px; }
+  .hero-area .contents h2 {
+    font-size: 38px; }
+
+  .section {
+    padding: 100px 0px; }
+
+  .section .contents h2 {
+    font-size: 38px
+  }  
+
+  .section .contents p {
+    font-size: 16px;
+    line-height: 26px; 
+  }
+  #team .single-team .team-social-icons {
+    bottom: 27%; }
+  #footer-Content {
+    padding-top: 100px; }
+  .hero-area .contents p {
+    color: #2f1b40;
+    font-size: 16px;
+    line-height: 26px; }
+  #pricing .pricing-table h1 span {
+    left: 10%; }
+
+  .navbar-brand img{
+    max-width: 90%;
+  }  
+  }

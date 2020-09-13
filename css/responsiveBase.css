@@ -1,0 +1,55 @@
+/*------------------------------------------
+  Responsive Grid Media Queries - 1280, 1024, 768, 480
+   1280-1024   - desktop (default grid)
+   1024-768    - tablet landscape
+   768-480     - tablet 
+   480-less    - phone landscape & smaller
+--------------------------------------------*/
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+    .hero-area .contents {
+        padding: 280px 0 390px; 
+      }
+      .navbar-expand-md .navbar-nav .nav-link {
+        font-size: 15px;
+        padding: 8px 0px;
+        margin-left: 18px; }
+      .hero-area .contents h2 {
+        font-size: 38px; }
+
+        #pricing .container .pricing-tables .pricing-table {
+            height: 100%;
+        }
+    
+      .section {
+        padding: 100px 0px; }
+    
+      .section .contents h2 {
+        font-size: 38px
+      }  
+    
+      .section .contents p {
+        font-size: 16px;
+        line-height: 26px; 
+      }
+      #team .single-team .team-social-icons {
+        bottom: 27%; }
+      #footer-Content {
+        padding-top: 100px; }
+      .hero-area .contents p {
+        color: #2f1b40;
+        font-size: 16px;
+        line-height: 26px; }
+      #pricing .pricing-table h1 span {
+        left: 10%; }
+      .navbar-brand img{
+        max-width: 90%;
+      }  
+
+
+ }
+ 
+@media all and (min-width: 768px) and (max-width: 1024px) { }
+ 
+@media all and (min-width: 480px) and (max-width: 768px) { }
+ 
+@media all and (max-width: 480px) { }
