@@ -2,6 +2,6 @@ FROM nginx:1.19.2-alpine
 
 LABEL maintainer="onlinejudge95"
 
-WORKDIR /usr/src/app
+WORKDIR /usr/share/nginx/html
 
-COPY . /usr/share/nginx/html
+COPY . .

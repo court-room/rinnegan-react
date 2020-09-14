@@ -2,4 +2,7 @@
 .github/
 bin/
 
+*.toml
 *.ignore
+Dockerfile
+*.md
