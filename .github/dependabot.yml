@@ -1,0 +1,18 @@
+version: 2
+
+updates:
+  - package-ecosystem: docker
+    directory: "/"
+    schedule:
+      interval: daily
+      timezone: Asia/Calcutta
+    assignees:
+      - "dependabot"
+    labels:
+      - "dependencies"
+      - "dependabot"
+      - "server"
+    open-pull-requests-limit: 10
+    reviewers:
+      - "onlinejudge95"
+    target-branch: staging
