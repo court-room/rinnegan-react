@@ -1,4 +1,4 @@
-FROM nginx:1.19.3-alpine
+FROM nginx:1.19.4-alpine
 
 LABEL maintainer="onlinejudge95"
 
